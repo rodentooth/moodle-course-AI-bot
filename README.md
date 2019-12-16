@@ -1,8 +1,8 @@
 # moodle-course-AI-bot
 
 Explaination of the files:
-
-
-Links: Self explaining
-Bot.doc: Documentation of our bot
-zip file: Dialogflow export file
+\n
+\n
+Links: Self explaining\n
+Bot.doc: Documentation of our bot\n
+zip file: Dialogflow export file\n
